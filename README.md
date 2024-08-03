@@ -8,6 +8,6 @@
 - Edit & Delete contact functionality
 - Persistent theme save functionality using local storage
 
-<img src="![Screenshot_20240803_122702](https://github.com/user-attachments/assets/7dffcf28-f832-4f7e-b925-469af8d8c6da)" alt="App Screenshot" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/7dffcf28-f832-4f7e-b925-469af8d8c6da" alt="App Screenshot" width="200" height="400"/>
 
 
