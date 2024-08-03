@@ -10,4 +10,4 @@
 
 
 
-<img src="https://github.com/user-attachments/assets/a703c15d-dbdb-42cc-92d9-88a7cdabde05" alt= "App Screenshot" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/a703c15d-dbdb-42cc-92d9-88a7cdabde05" alt="App Screenshot" width="200" height="400"/>
