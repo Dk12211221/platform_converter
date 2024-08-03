@@ -9,7 +9,7 @@
 - Persistent theme save functionality using local storage
 
 <img src="https://github.com/user-attachments/assets/7dffcf28-f832-4f7e-b925-469af8d8c6da" alt="App Screenshot" width="200" height="400"/>
-<img src="https://github.com/user-attachments/assets/f9ee0eae-3a92-4005-a212-da82331e044c" alt="App Screenshot" width="200" height="400"/>
+
 <img src="https://github.com/user-attachments/assets/f79c6852-29a5-45e8-a2c3-ad5fb01f0dc5" alt="App Screenshot" width="200" height="400"/>
 <img src="https://github.com/user-attachments/assets/17a746ee-9f6f-4537-afec-93b878c5a441" alt="App Screenshot" width="200" height="400"/>
 <img src="https://github.com/user-attachments/assets/6f7c0651-917d-4283-9d79-308367b1f754" alt="App Screenshot" width="200" height="400"/>
